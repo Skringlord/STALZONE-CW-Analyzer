@@ -16,6 +16,9 @@ Extract the ZIP archive and run:
 
 Keep the `_internal` folder next to the executable.
 
+![Main Window](MainWindow.jpg)
+![Results Window](Results.jpg)
+
 ## Features
 
 - Automatic Clan War footage analysis
